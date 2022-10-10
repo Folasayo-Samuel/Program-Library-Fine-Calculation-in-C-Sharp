@@ -1,0 +1,15 @@
+/home/saint/Desktop/LibraryFineCalculationApp/bin/Debug/net6.0/LibraryFineCalculationApp
+/home/saint/Desktop/LibraryFineCalculationApp/bin/Debug/net6.0/LibraryFineCalculationApp.deps.json
+/home/saint/Desktop/LibraryFineCalculationApp/bin/Debug/net6.0/LibraryFineCalculationApp.runtimeconfig.json
+/home/saint/Desktop/LibraryFineCalculationApp/bin/Debug/net6.0/LibraryFineCalculationApp.dll
+/home/saint/Desktop/LibraryFineCalculationApp/bin/Debug/net6.0/LibraryFineCalculationApp.pdb
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.csproj.AssemblyReference.cache
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.AssemblyInfoInputs.cache
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.AssemblyInfo.cs
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.dll
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/refint/LibraryFineCalculationApp.dll
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.pdb
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/LibraryFineCalculationApp.genruntimeconfig.cache
+/home/saint/Desktop/LibraryFineCalculationApp/obj/Debug/net6.0/ref/LibraryFineCalculationApp.dll
